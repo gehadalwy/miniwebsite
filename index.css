@@ -1,0 +1,67 @@
+.indicircle{
+	
+
+
+height:15px !important;
+width:15px !important; 
+
+
+
+}
+.para{
+	
+font-size:80px;
+
+
+}
+.test{
+	
+height:60px;
+width:60px;
+
+}
+.teste{
+	background-color:#ffc809 !important;
+}
+a{
+	color:black;
+
+}
+.new{
+	font-size:12px;
+}
+/*.over{
+	
+	left: 50%;
+    top: 100%;
+    margin-top: -50px;
+    margin-left: -30px;
+    width:190px ;
+    height:120px ;
+}
+.under{
+	
+	left: 5%;
+    top: 15%;
+    margin-top: -60px;
+    margin-left: -15px;
+   height:470px ;
+   width:320px;
+}
+.dotpic{
+	width:100px ;
+    height:180px ;
+
+}*/
+.bottom-right {
+ /* position: absolute;*/
+  top: 20% ;
+  left: 20% ;
+  font-size:15px;
+}
+.bottom-rightt{
+	/* position: absolute;*/
+  top: 29% ;
+  left: 20% ;
+  font-size:12px;
+}
